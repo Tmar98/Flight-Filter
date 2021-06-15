@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightFilter", "FlightFilter\FlightFilter.csproj", "{CD457DE7-2EE2-4BB1-8ACC-7CF1E3C97E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD457DE7-2EE2-4BB1-8ACC-7CF1E3C97E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD457DE7-2EE2-4BB1-8ACC-7CF1E3C97E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD457DE7-2EE2-4BB1-8ACC-7CF1E3C97E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD457DE7-2EE2-4BB1-8ACC-7CF1E3C97E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D57489-7632-4908-A06C-E27ECC7B2A4B}
+	EndGlobalSection
+EndGlobal

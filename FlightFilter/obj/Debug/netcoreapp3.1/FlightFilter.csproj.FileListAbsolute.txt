@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FlightFilter\FlightFilter\bin\Debug\netcoreapp3.1\FlightFilter.exe
+C:\Users\user\source\repos\FlightFilter\FlightFilter\bin\Debug\netcoreapp3.1\FlightFilter.deps.json
+C:\Users\user\source\repos\FlightFilter\FlightFilter\bin\Debug\netcoreapp3.1\FlightFilter.runtimeconfig.json
+C:\Users\user\source\repos\FlightFilter\FlightFilter\bin\Debug\netcoreapp3.1\FlightFilter.runtimeconfig.dev.json
+C:\Users\user\source\repos\FlightFilter\FlightFilter\bin\Debug\netcoreapp3.1\FlightFilter.dll
+C:\Users\user\source\repos\FlightFilter\FlightFilter\bin\Debug\netcoreapp3.1\FlightFilter.pdb
+C:\Users\user\source\repos\FlightFilter\FlightFilter\obj\Debug\netcoreapp3.1\FlightFilter.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FlightFilter\FlightFilter\obj\Debug\netcoreapp3.1\FlightFilter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FlightFilter\FlightFilter\obj\Debug\netcoreapp3.1\FlightFilter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FlightFilter\FlightFilter\obj\Debug\netcoreapp3.1\FlightFilter.AssemblyInfo.cs
+C:\Users\user\source\repos\FlightFilter\FlightFilter\obj\Debug\netcoreapp3.1\FlightFilter.dll
+C:\Users\user\source\repos\FlightFilter\FlightFilter\obj\Debug\netcoreapp3.1\FlightFilter.pdb
+C:\Users\user\source\repos\FlightFilter\FlightFilter\obj\Debug\netcoreapp3.1\FlightFilter.genruntimeconfig.cache
